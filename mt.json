@@ -1,0 +1,9 @@
+{
+  "authors": ["Justin Noah <justinnoah@gmail.com>"],
+  "name": "MonoVer",
+  "version": "0.1",
+  "paths": [".", "./src"],
+  "repository": "https://github.com/justinnoah/mt-monover",
+  "entrypoint": "./src/monover",
+  "dependencies": {}
+}
